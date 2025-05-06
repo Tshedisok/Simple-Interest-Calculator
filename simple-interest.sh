@@ -20,4 +20,4 @@ read time
 # Call the function with the inputs
 calculate_simple_interest $principal $rate $time
 
-chmod +x simple-interest.sh
+
